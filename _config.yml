@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Fabián Nomada"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Youtuber/Hacker/Developer/Environmentalist."
+  bio    : "Youtuber, Hacker, Developer, Environmentalist."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
