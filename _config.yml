@@ -118,3 +118,8 @@ tag_archive:
   type: liquid
   path: /tags/
 locale: es-CO
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-88351060-2"
+    anonymize_ip: false # default

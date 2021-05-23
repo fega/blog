@@ -6,11 +6,10 @@ tags:
   - Proyectos
 ---
 
-Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es una especie de wallboard para celebrar y conmemorar nuestros lo que hacemos juntos.
-
-Los proyectos estan organizados de mas reciente a mas antiguos
+Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es una especie de Wallboard para celebrar y conmemorar nuestros lo que hacemos juntos.
 
 
+Los proyectos están organizados de más reciente a más antiguos
 
 ## 26-02-2021: Curso Básico de HTML (GRATIS!)
 ![Banner Curso Html](/blog/assets/images/curso.jpg)
@@ -19,4 +18,4 @@ Los proyectos estan organizados de mas reciente a mas antiguos
 
 ## 2019-09-13: re-Lanzamos el canal juntos
 ![Banner Canal Hacker nómada](/blog/assets/images/banner.png)
-  - URL: [Link dl canal](https://www.youtube.com/channel/UCSJWn-oCkNXxxUomuL1zz3g)
+  - URL: [Link del canal](https://www.youtube.com/channel/UCSJWn-oCkNXxxUomuL1zz3g)
