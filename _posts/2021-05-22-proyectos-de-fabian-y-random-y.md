@@ -13,10 +13,10 @@ Los proyectos estan organizados de mas reciente a mas antiguos
 
 
 ## 26-02-2021: Curso Básico de HTML (GRATIS!)
-![Banner Curso Html](/proyectos-de-fabian-y-random_y/assets/images/curso.jpg)
+![Banner Curso Html](/blog/assets/images/curso.jpg)
   - URL 1: [Link Youtube](https://www.youtube.com/watch?v=NuxSuvAagEc)
   - URL 2: [Link Udemy](https://www.udemy.com/course/aprende-html-desde-cero-para-principiantes/learn/lecture/26007404#overview)
 
 ## 2019-09-13: re-Lanzamos el canal juntos
-![Banner Canal Hacker nómada](/proyectos-de-fabian-y-random_y/assets/images/banner.png)
+![Banner Canal Hacker nómada](/blog/assets/images/banner.png)
   - URL: [Link dl canal](https://www.youtube.com/channel/UCSJWn-oCkNXxxUomuL1zz3g)
