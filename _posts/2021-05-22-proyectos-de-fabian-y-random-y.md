@@ -11,7 +11,7 @@ Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es u
 
 Los proyectos están organizados de más reciente a más antiguos
 
-## 26-02-2021: Curso Básico de HTML (GRATIS!)
+## 26-04-2021: Curso Básico de HTML (GRATIS!)
 ![Banner Curso Html](/blog/assets/images/curso.jpg)
   - URL 1: [Link Youtube](https://www.youtube.com/watch?v=NuxSuvAagEc)
   - URL 2: [Link Udemy](https://www.udemy.com/course/aprende-html-desde-cero-para-principiantes/learn/lecture/26007404#overview)
