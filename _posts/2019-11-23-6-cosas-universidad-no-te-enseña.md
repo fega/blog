@@ -8,7 +8,7 @@ tags:
 
 ![universidad1](/blog/assets/images/universidad1.png)
 
-> Todas estas habilidades que explico las puedes ver en mi video **[“6 Cosas que la Universidad DEBERÍA enseñarte”**](https://www.youtube.com/watch?v=TH5qR3WSS24) te invito a que lo veas y te suscribas a mi [**canal**](https://youtube.com/FabianHackerNomada), todas las semanas subo contenido interesante.
+> Todas estas habilidades que explico las puedes ver en mi video [**“6 Cosas que la Universidad DEBERÍA enseñarte”**](https://www.youtube.com/watch?v=TH5qR3WSS24) te invito a que lo veas y te suscribas a mi [**canal**](https://youtube.com/FabianHackerNomada), todas las semanas subo contenido interesante.
 
 ---
 
@@ -23,6 +23,7 @@ En las universidades no te enseñan a hacer vida social, no te dicen lo importan
 > Las mejores oportunidades laborales y las mejores oportunidades en tu vida, probablemente no lleguen por lo bueno que eres en algo, sino por conocer a las personas correctas.
 
 ![universidad2](/blog/assets/images/universidad2.png)
+
 Puedes llamarlo como quieras, palanca, trampa; pero la mayoría de oportunidades están ahí gracias a conocer la gente indicada y de ser una persona sociable, de saber conectar con la gente; eso es lo que se llama networking y las universidades no lo están enseñando y aunque enseñan habilidades para tu trabajo, es mas importante conocer la gente correcta que, muchas veces, ser bueno en lo que haces y con eso no estoy animando a nadie a que sea un profesional mediocre, si no que valores realmente lo importante que es conocer gente, salir ahí afuera y hablar con desconocidos, de conocer personas que te pueden abrir oportunidades en la vida.
 
 ## 2. Manejo del dinero
@@ -67,6 +68,7 @@ Su principal obligación, al menos, debería ser enseñar el saber venderte, sab
 
 La universidad no te enseña esas habilidades para aplicar en tu vida laboral despues de terminar tu carrear; y esto va ligado con el primer punto que es hacer networking, por que como te digo muchas veces las oportunidades se te van a abrir por conocer y por seducir profesionalmente la persona correcta y no por tus habilidades técnicas.
 
+---
 ---
 
 Me gustaría mencionar que esto lo estoy haciendo por que dichos puntos, son los que necesito mejorar y en los que me estoy esforzando cada día mas por perfeccionar. Y con esto también espero, que los que puedan leer o ver mi video se inspiren también a mejorar.
