@@ -18,6 +18,7 @@ Realizo este post para aquellas personas que tienen una idea similar: quieren ve
 
 ## 1. ¿Qué es la programación?
 La pregunta más común que me hacen, *“¿qué car@jos es la programación?”*
+
 Básicamente programar es darle instrucciones de que hacer a un computador, por medio de un lenguaje de programación que son una serie de reglas de escritura, para decirle como hacer las cosas a ese computador.
 
 ![Preguntas Programacion2](/blog/assets/images/preguntas programacion2.png)
