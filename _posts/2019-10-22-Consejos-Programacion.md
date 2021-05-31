@@ -8,7 +8,7 @@ tags:
 
 ![Consejos Programacion](/blog/assets/images/programacion2.png)
 
->Todos los concejos los hablo en mi video [*“5 CONSEJOS que te ayudarán a conseguir un MEJOR trabajo como programador”*](https://www.youtube.com/watch?v=MzMOIOhsW-Q), te invito a que lo veas y te suscribas a mi canal, todas las semanas subo contenido interesante.
+>Todos los consejos los hablo en mi video [*“5 CONSEJOS que te ayudarán a conseguir un MEJOR trabajo como programador”*](https://www.youtube.com/watch?v=MzMOIOhsW-Q), te invito a que lo veas y te suscribas a mi canal, todas las semanas subo contenido interesante.
 
 
 Eres programador y te has puesto a pensar *“¿Qué me hace falta para poder mejorar mi trabajo?”* Y ciertamente una pregunta que, aunque no seas programador, probablemente también te la hayas hecho.
