@@ -5,6 +5,7 @@ categories:
 tags:
   - Posts
 ---
+![Programacion](/blog/assets/images/programacion1.jpg)
 
 La reacción normal a esta pregunta, cuando se le realiza a un ingeniero Ambiental, es el rechazo, la opinión es que en general, solo los geeks y nerds computacionales aprenden aquella extraña, complicada y poco productiva actividad que es la programación. Sin embargo, la experiencia me ha demostrado, que ciertos casos puntuales de programación pueden ser saludables para la productividad e incluso en ciertos casos llegar a ser una actividad de ocio (como en mi caso). Y es por ellos que os traigo una lista posible de respuestas a esa pregunta.
 
