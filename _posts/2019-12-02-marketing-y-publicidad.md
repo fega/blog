@@ -1,5 +1,5 @@
 ---
-title: "Marketing y Publicidad | Lee ÉSTO antes de elegir donde estudiar."
+title: "Marketing y Publicidad. Lee ÉSTO antes de elegir donde estudiar."
 categories:
   - Blog
 tags:
