@@ -8,7 +8,7 @@ tags:
 
 ![Consejos Programacion](/blog/assets/images/programacion2.png)
 
->Todos los concejos los hablo en mi video *[“5 CONSEJOS que te ayudarán a conseguir un MEJOR trabajo como programador”]*(https://www.youtube.com/watch?v=MzMOIOhsW-Q), te invito a que lo veas y te suscribas a mi canal, todas las semanas subo contenido interesante.
+>Todos los concejos los hablo en mi video [*“5 CONSEJOS que te ayudarán a conseguir un MEJOR trabajo como programador”*](https://www.youtube.com/watch?v=MzMOIOhsW-Q), te invito a que lo veas y te suscribas a mi canal, todas las semanas subo contenido interesante.
 
 
 Eres programador y te has puesto a pensar *“¿Qué me hace falta para poder mejorar mi trabajo?”* Y ciertamente una pregunta que, aunque no seas programador, probablemente también te la hayas hecho.
@@ -53,7 +53,7 @@ Cuando se hace contratación en las empresas normalmente las personas consultan 
 
 Entonces, cultivar tu círculo social te va a ayudar muchísimo a encontrar mejores ofertas de empleo directamente con las personas que están en las empresas, siempre que entres de la mano de alguna otra persona en vez de entrar por una bolsa de empleo o sitio web.
 
-Otra de las cosas que puedes hacer para cultivar tu círculo social es usar **[LinkedIn]**(http://linkedin.com/), la mayoría de personas piensan que es básicamente una bolsa de trabajo, pero no, LinkedIn es una red social que sirve para encontrar gente que te pueda presentar a ejecutivos y personas encargadas de recursos humanos de las empresas que te interesan.
+Otra de las cosas que puedes hacer para cultivar tu círculo social es usar [**LinkedIn**](http://linkedin.com/), la mayoría de personas piensan que es básicamente una bolsa de trabajo, pero no, LinkedIn es una red social que sirve para encontrar gente que te pueda presentar a ejecutivos y personas encargadas de recursos humanos de las empresas que te interesan.
 
 También ayuda mucho ir a *MeetUps* de la carrera en la que te desempeñas, si eres emprendedor ve con los emprendedores, si eres un artista ve donde los artistas se reúnen, se conocen y conversan porque ahí es donde están las personas que a ti te interesan.
 
