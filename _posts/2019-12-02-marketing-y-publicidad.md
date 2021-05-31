@@ -6,7 +6,7 @@ tags:
   - Posts
 ---
 
-![publicidad1](/blog/assets/images/publicidad1.png)
+![publicidad1](/blog/assets/images/publicidad1.jpeg)
 
 > Este caso también lo explico en mi video [**“Marketing y Publicidad. MIRA ÉSTO antes de elegir DONDE ESTUDIAR”**](https://youtu.be/39MKTC5Us5A) te invito a que lo veas y te suscribas a mi [**canal**](http://youtube.losnomadas.co/), todas las semanas subo contenido interesante.
 
@@ -38,7 +38,7 @@ Y en medios publicitarios hay varias secciones, por lo que hay medios publicitar
 
 Pero algo muy importante falta ahí: **Marketing Digital, Marketing de Influencers, Marketing en Redes Sociales**; eso es lo que en este momento está creciendo.
 
-![publicidad3](/blog/assets/images/publicidad3.png)
+![publicidad3](/blog/assets/images/publicidad3.jpeg)
 
 La radio hace mucho tiempo se estancó, el crecimiento de este medio sigue existiendo, y si, puede seguir siendo un medio importante para repartir noticias, pero hace mucho tiempo dejo de crecer de manera exponencial. Lo mismo pasa con la televisión, y no solo la nacional sino la televisión del mundo está teniendo problemas para crecer, para adaptarse a un siglo XXI donde hay interactividad; la radio y la televisión son medios que no permiten interactuar entre las personas que están participando, que son la persona que crea el contenido y la persona que lo ve.
 
@@ -61,7 +61,7 @@ Entonces cuando miro que este programa está atrasado 25 años, y que la carrera
 
 Ahora, lo curioso es que el tema del marketing digital no es que sea ciencia negra, no es nada oculto y además es muy popular, hay demasiad información ahí afuera en internet y creo que, una persona en un año o dos puede aprender las bases mas que suficientes para ser un marketer exitoso. Por lo que no hay excusas por parte de las universidades que están brindando este tipo de programas atrasados.
 
-![publicidad3](/blog/assets/images/publicidad3.png)
+![publicidad3](/blog/assets/images/publicidad3.jpeg)
 
 ## La “moraleja” es…
 Examina muy bien en donde estas invirtiendo tu dinero y tu tiempo, por que son 5 años de tu vida en los que vas a estar estudiando, 5 años es muchísimo y en ese tiempo puedes lograr cosas increíbles si sabes donde invertir tu esfuerzo y tiempo. Mira bien lo que te están ofreciendo, no te dejes caer en la publicidad de las universidades, ellas son empresas y por lo tanto tienen que venderte, ocultan lo feo y muestran lo que esta bonito, lo que está bien.
