@@ -6,9 +6,9 @@ tags:
   - Posts
 ---
 
-![publicidad1](/blog/assets/images/publicidad1.jpeg)
-
 En esta oportunidad hablaré de un caso muy particular, acerca del tema de elegir carreras y de que estudiar, así que si eres estudiante, o estás buscando que estudiar o si tienes hijos (o planeas tenerlos) presta mucha atención para mirar ciertas cosas que son importantes a la hora de fijarte en escoger un curriculum profesional o una carrera.
+
+![publicidad1](/blog/assets/images/publicidad1.jpeg)
 
 > Este caso también lo explico en mi video [**“Marketing y Publicidad. MIRA ÉSTO antes de elegir DONDE ESTUDIAR”**](https://youtu.be/39MKTC5Us5A) te invito a que lo veas y te suscribas a mi [**canal**](http://youtube.losnomadas.co/), todas las semanas subo contenido interesante.
 
