@@ -5,11 +5,15 @@ categories:
 tags:
   - Posts
 ---
+
+La reacción normal a esta pregunta, cuando se le realiza a un ingeniero Ambiental, es el rechazo, la opinión es que en general, solo los geeks y nerds computacionales aprenden aquella extraña, complicada y poco productiva actividad que es la programación.
+
 ![Programacion](/blog/assets/images/programacion1.jpg)
 
-## Ventajas de Aprender Programación
+Sin embargo, la experiencia me ha demostrado, que ciertos casos puntuales de programación pueden ser saludables para la productividad e incluso en ciertos casos llegar a ser una actividad de ocio (como en mi caso). Y es por ellos que os traigo una lista posible de respuestas a esa pregunta.
 
-La reacción normal a esta pregunta, cuando se le realiza a un ingeniero Ambiental, es el rechazo, la opinión es que en general, solo los geeks y nerds computacionales aprenden aquella extraña, complicada y poco productiva actividad que es la programación. Sin embargo, la experiencia me ha demostrado, que ciertos casos puntuales de programación pueden ser saludables para la productividad e incluso en ciertos casos llegar a ser una actividad de ocio (como en mi caso). Y es por ellos que os traigo una lista posible de respuestas a esa pregunta.
+## Ventajas de Aprender Programación
+Aquí te muestro algunas ventajas de aprender a programar:
 
 ### Para ejercitar la mente: 
 Programar es una actividad en la cual debe seguirse una lógica estricta para llegar a un objetivo, por lo cual se necesita organizar las ideas y pensar en base a una secuencia de pasos, este tipo de pensamiento puede extrapolarse a otros campos diferentes a la computación, tales como la toma de ideas en una organización y la estructuración de procesos en una planta de producción industrial.
