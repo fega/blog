@@ -8,9 +8,9 @@ tags:
 
 ![publicidad1](/blog/assets/images/publicidad1.jpeg)
 
-> Este caso también lo explico en mi video [**“Marketing y Publicidad. MIRA ÉSTO antes de elegir DONDE ESTUDIAR”**](https://youtu.be/39MKTC5Us5A) te invito a que lo veas y te suscribas a mi [**canal**](http://youtube.losnomadas.co/), todas las semanas subo contenido interesante.
-
 En esta oportunidad hablaré de un caso muy particular, acerca del tema de elegir carreras y de que estudiar, así que si eres estudiante, o estás buscando que estudiar o si tienes hijos (o planeas tenerlos) presta mucha atención para mirar ciertas cosas que son importantes a la hora de fijarte en escoger un curriculum profesional o una carrera.
+
+> Este caso también lo explico en mi video [**“Marketing y Publicidad. MIRA ÉSTO antes de elegir DONDE ESTUDIAR”**](https://youtu.be/39MKTC5Us5A) te invito a que lo veas y te suscribas a mi [**canal**](http://youtube.losnomadas.co/), todas las semanas subo contenido interesante.
 
 ## Adaptabilidad a la tecnología y mercados actuales
 Lo primero que hay que tener en cuenta para entender este caso, es que las universidades hoy en día están teniendo muchísimos problemas para adaptarse a los mercados que hay afuera y las ofertas de empleo están cambiando demasiado rápido y las universidades no han logrado adaptarse de manera satisfactoria.
