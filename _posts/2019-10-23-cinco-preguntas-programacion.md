@@ -6,15 +6,15 @@ tags:
   - Posts
 ---
 
+Realizo este post para aquellas personas que tienen una idea similar: quieren ver si pueden aprender programación y no saben si es buena idea o no saben cómo empezar. Con esto quiero aclarar algunas de las dudas más comunes sobre el mundo de la programación.
+
+A lo largo de mi trayectoria como Developer, mucha gente me ha preguntado varias cosas sobre la programación. Pero primero para poder hablar de este tema, tengo que hablar un poco de mi historia. Soy Ingeniero Ambiental, pero aproximadamente hace 4 años decidí dejar mi carrera para dedicarme al tema de la programación. Para mi ese tiempo fue de total incertidumbre, primero por estar abandonando una carrera a la que ya le había dedicado muchísimo tiempo y también por no saber si el camino que estaba tomando era el correcto.
+
 ![Preguntas Programacion1](/blog/assets/images/preguntas programacion1.png)
 
 > Todas estas dudas que resuelvo, también las explico y las puedes ver en mi video [*“5 preguntas comunes sobre la programación”*](https://www.youtube.com/watch?v=iZXMleDbmb8) te invito a que lo veas y te suscribas a mi [*canal*](https://youtube.com/FabianHackerNomada), todas las semanas subo contenido interesante.
 
 ---
-
-Para poder hablar de este tema, tengo que hablar un poco de mi historia. Soy Ingeniero Ambiental, pero aproximadamente hace 4 años decidí dejar mi carrera para dedicarme al tema de la programación. Para mi ese tiempo fue de total incertidumbre, primero por estar abandonando una carrera a la que ya le había dedicado muchísimo tiempo y también por no saber si el camino que estaba tomando era el correcto.
-
-Realizo este post para aquellas personas que tienen una idea similar: quieren ver si pueden aprender programación y no saben si es buena idea o no saben cómo empezar. Con esto quiero aclarar algunas de las dudas más comunes sobre el mundo de la programación.
 
 ## 1. ¿Qué es la programación?
 La pregunta más común que me hacen, *“¿qué car@jos es la programación?”*
