@@ -11,6 +11,10 @@ Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es u
 
 Los proyectos están organizados de más reciente a más antiguos
 
+## 18-06-2021: Your Life In Weeks
+![Screenshot Your Life In Weeks](/blog/assets/images/YLIW.jpg)
+  - URL: [Link a la página](http://bit.ly/LfInWks)
+
 ## 26-04-2021: Curso Básico de HTML (GRATIS!)
 ![Banner Curso Html](/blog/assets/images/curso.jpg)
   - URL 1: [Link Youtube](https://www.youtube.com/watch?v=NuxSuvAagEc)
