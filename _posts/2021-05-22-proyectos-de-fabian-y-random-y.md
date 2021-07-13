@@ -12,7 +12,6 @@ Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es u
 Los proyectos están organizados de más reciente a más antiguos
 
 ## 08-07-2021: Lanzamos canal personal Fabián Nómada
-![Screenshot Your Life In Weeks](/blog/assets/images/YLIW.jpg)
 - URL: [Link al canal](https://youtube.com/channel/UCIF2snGqzM4vn_uvuuY2v6A)
 
 ## 18-06-2021: Your Life In Weeks
