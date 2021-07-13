@@ -11,6 +11,10 @@ Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es u
 
 Los proyectos están organizados de más reciente a más antiguos
 
+## 08-07-2021: Lanzamos canal personal Fabián Nómada
+![Screenshot Your Life In Weeks](/blog/assets/images/YLIW.jpg)
+- URL: [Link al canal](https://youtube.com/channel/UCIF2snGqzM4vn_uvuuY2v6A)
+
 ## 18-06-2021: Your Life In Weeks
 ![Screenshot Your Life In Weeks](/blog/assets/images/YLIW.jpg)
   - URL: [Link a la página](http://bit.ly/LfInWks)
@@ -22,4 +26,4 @@ Los proyectos están organizados de más reciente a más antiguos
 
 ## 2019-09-13: re-Lanzamos el canal juntos
 ![Banner Canal Hacker nómada](/blog/assets/images/banner.png)
-  - URL: [Link del canal](https://www.youtube.com/channel/UCSJWn-oCkNXxxUomuL1zz3g)
+  - URL: [Link del canal](https://www.youtube.com/channel/fabianhackernomada)
