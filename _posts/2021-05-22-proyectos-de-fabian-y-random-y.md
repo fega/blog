@@ -11,6 +11,15 @@ Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es u
 
 Los proyectos están organizados de más reciente a más antiguos
 
+
+## 25-11-2021: Curso de Terminal para FrontEnds. (En Colaboración con Leonidas Esteban)
+![Banner Curso](/blog/assets/images/thumbnail_curso.jpg)
+- URL: [Link al curso](https://leonidasesteban.com/cursos/terminal)
+
+## 09-08-2021: Lanzamos canal Shelly Draws
+![Banner Canal Shelly Draws](/blog/assets/images/banner3_1.png)
+- URL: [Link al canal](https://www.youtube.com/user/shana0825/)
+
 ## 08-07-2021: Lanzamos canal personal Fabián Nómada
 - URL: [Link al canal](https://youtube.com/channel/UCIF2snGqzM4vn_uvuuY2v6A)
 
