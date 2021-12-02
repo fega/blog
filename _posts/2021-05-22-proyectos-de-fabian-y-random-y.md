@@ -15,6 +15,7 @@ Los proyectos están organizados de más reciente a más antiguos
 ## 25-11-2021: Curso de Terminal para FrontEnds. (En Colaboración con Leonidas Esteban)
 ![Banner Curso](/blog/assets/images/thumbnail_curso.jpg)
 - URL: [Link al curso](https://leonidasesteban.com/cursos/terminal)
+- URL: [Página de Leonidas Esteban](https://leonidasesteban.com/)
 
 ## 09-08-2021: Lanzamos canal Shelly Draws
 ![Banner Canal Shelly Draws](/blog/assets/images/banner3_1.png)
