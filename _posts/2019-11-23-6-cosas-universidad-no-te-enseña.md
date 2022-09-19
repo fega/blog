@@ -5,7 +5,7 @@ categories:
 tags:
   - Posts
 header:
-  teaser: /blog/assets/images/universidad1.png
+  teaser: /assets/images/universidad1.png
 ---
 
 Hoy les quiero hablar sobre las 6 cosas que la universidad no te enseña pero que debería hacerlo. Me considero un crítico del sistema universitario actual porqué la mejor cosa que pude haber hecho en mi historia reciente es dejar atrás una carrera de 5 años, graduarme y olvidarme de ella y dedicarme a otra cosa totalmente diferente que es la programación.
