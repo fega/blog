@@ -4,6 +4,8 @@ categories:
   - Blog
 tags:
   - Proyectos
+header:
+  teaser: /assets/images/proyectos.jpg
 ---
 
 Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es una especie de Wallboard para celebrar y conmemorar nuestros lo que hacemos juntos.
