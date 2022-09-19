@@ -4,6 +4,8 @@ categories:
   - Blog
 tags:
   - Posts
+header:
+  teaser: /assets/images/publicidad1.jpeg
 ---
 
 En esta oportunidad hablaré de un caso muy particular, acerca del tema de elegir carreras y de que estudiar, así que si eres estudiante, o estás buscando que estudiar o si tienes hijos (o planeas tenerlos) presta mucha atención para mirar ciertas cosas que son importantes a la hora de fijarte en escoger un curriculum profesional o una carrera.
