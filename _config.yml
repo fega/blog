@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Full-stack Developer (Javascript, Node.js).
   ISO27001 internal auditor, IT security specialist.
   Environmental Engineer.
+teaser: /assets/images/500x300.png
 twitter_username: fabianNomada
 github_username: fega
 minimal_mistakes_skin: neon
@@ -111,7 +112,6 @@ defaults:
       comments: true
       share: true
       related: true
-      teaser: true
   # _pages
   - scope:
       path: "_pages"
