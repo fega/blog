@@ -1,5 +1,6 @@
 ---
 title: "6 Cosas que la Universidad DEBERÍA enseñarte"
+teaser: /assets/images/universidad1.png
 categories:
   - Blog
 tags:
