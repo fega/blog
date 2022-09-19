@@ -4,6 +4,8 @@ categories:
   - Blog
 tags:
   - Posts
+header:
+  teaser: /assets/images/programacion2.png
 ---
 
 Eres programador y te has puesto a pensar *“¿Qué me hace falta para poder mejorar mi trabajo?”* Y ciertamente una pregunta que, aunque no seas programador, probablemente también te la hayas hecho.
