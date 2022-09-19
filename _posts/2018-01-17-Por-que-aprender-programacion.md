@@ -4,6 +4,8 @@ categories:
   - Blog
 tags:
   - Posts
+header:
+  teaser: /assets/images/programacion1.jpg
 ---
 
 La reacción normal a esta pregunta, cuando se le realiza a un ingeniero Ambiental, es el rechazo, la opinión es que en general, solo los geeks y nerds computacionales aprenden aquella extraña, complicada y poco productiva actividad que es la programación.
