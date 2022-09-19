@@ -4,6 +4,8 @@ categories:
   - Blog
 tags:
   - Posts
+header:
+  teaser: /assets/images/preguntas programacion1.png
 ---
 
 Realizo este post para aquellas personas que tienen una idea similar: quieren ver si pueden aprender programación y no saben si es buena idea o no saben cómo empezar. Con esto quiero aclarar algunas de las dudas más comunes sobre el mundo de la programación.
