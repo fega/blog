@@ -32,6 +32,13 @@ github_username: fega
 minimal_mistakes_skin: neon
 search: true
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-992H49RCK8"
+    anonymize_ip: false # default
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
