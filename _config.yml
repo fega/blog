@@ -26,7 +26,7 @@ teaser: /assets/images/500x300.png
 comments:
   provider: "disqus"
   disqus:
-  shortname: "fegablog"
+    shortname: "fegablog"
 twitter_username: fabianNomada
 github_username: fega
 minimal_mistakes_skin: neon
@@ -124,6 +124,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      comments: true
 
 category_archive:
   type: liquid
