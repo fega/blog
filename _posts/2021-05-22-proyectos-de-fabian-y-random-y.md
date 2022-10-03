@@ -40,14 +40,14 @@ Los proyectos están organizados de más reciente a más antiguos
   - URL: [Link del canal](https://www.youtube.com/channel/fabianhackernomada)
 
 ## Proyectos Pre-Yax
-Estos son los proyectos lanzados por Fabián Antes de la llegada de Yax
+Estos son los proyectos lanzados por Fabián antes de la llegada de Yax.
 
-# 2017 Arduair
-Este proyecto fue hecho como trabajo de grado para recibir mi título de ingeniero ambiental en la universidad pontificia bolivariana.
+# 2017: Arduair
+Este proyecto fue hecho como trabajo de grado para recibir mi título de Ingeniero Ambiental en la Universidad Pontificia Bolivariana.
 
-Lo mas interesante probablemente es el código para el arduino, que debido a la cantidad de sensores que debia conectar. tuve que revisar su configuración interna y hackear un par de cosas.
+Lo más interesante probablemente es el código para el Arduino, que debido a la cantidad de sensores que debía conectar tuve que revisar su configuración interna y hackear un par de cosas.
 
-Tambien me llevo al desarrollo de una  [pequeña librería](https://github.com/fega/winsen-ze03-arduino-library) para un sensor llamado Winsen ZE 03 para Ozono
+También me llevó al desarrollo de una [pequeña librería](https://github.com/fega/winsen-ze03-arduino-library) para un sensor llamado "Winsen ZE 03" para Ozono
 
 - URL 1: [Link del repo](https://github.com/fega/arduair) 
 - URL 2: [Link del hardware](https://github.com/fega/arduair-hardware) 
