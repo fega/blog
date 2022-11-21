@@ -14,6 +14,11 @@ Esta es una lista de todos los proyectos en los que hemos trabajado juntos, es u
 Los proyectos están organizados de más reciente a más antiguos
 
 
+## 01-11-2022: Third-Party Skills Assessments
+![Github Fabian](/blog/assets/images/github.png)
+Una página donde se recopilan todos los third party skills que Fabian ha adquirido a lo largo del tiempo. Un resumen con imágenes y links a los más importantes.
+- URL: [Link al resumen](https://www.notion.so/nomadas/Fabian-s-Third-Party-Skills-Assessments-e7fd1cc365ae41ca9dae1cea1d560d3f)
+
 ## 25-11-2021: Curso de Terminal para FrontEnds. (En Colaboración con Leonidas Esteban)
 ![Banner Curso](/blog/assets/images/thumbnail_curso.jpg)
 - URL: [Link al curso](https://leonidasesteban.com/cursos/terminal)
